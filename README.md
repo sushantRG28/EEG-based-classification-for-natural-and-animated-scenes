@@ -15,7 +15,7 @@ We constructed a dataset consisting of 100 natural and 100 animated images, each
   <img src="bd.png" alt="Natural Image Example" width="320"/>
 </p>
 <p align="center">
-  <em>Sample animated and natural images from dataset (replace with your own images)</em>
+  <em>Sample animated and natural images from dataset</em>
 </p>
 
 ---

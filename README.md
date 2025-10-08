@@ -11,8 +11,8 @@ This is my 4th year BTech project focused on EEG signal analysis for classifying
 We constructed a dataset consisting of 100 natural and 100 animated images, each selected at a strict resolution of **1920x1080** for consistency across trials. Subjects viewed each image for standardized test durations during EEG recording.
 
 <p align="center">
-  <img src="a.jpg" alt="Animated Image Example" width="320"/>
-  <img src="b.jpg" alt="Natural Image Example" width="320"/>
+  <img src="1.png" alt="Animated Image Example" width="320"/>
+  <img src="bd.png" alt="Natural Image Example" width="320"/>
 </p>
 <p align="center">
   <em>Sample animated and natural images from dataset (replace with your own images)</em>
